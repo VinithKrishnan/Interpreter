@@ -1,0 +1,6 @@
+[package]
+name = "rust_inter"
+version = "0.1.0"
+authors = ["Vinith <vinithk@gmail.com>"]
+
+[dependencies]
